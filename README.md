@@ -14,4 +14,4 @@ Project Pixel Art Maker Starter Udacity project
 - Writing nested loops and using loop variables
 - jQuery
 
-[Preview to my project]  https://nnaezema.github.io/Project-Pixel-Art-Maker-Starter/
+[Preview to my project] (https://nnaezema.github.io/Project-Pixel-Art-Maker-Starter/)
