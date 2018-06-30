@@ -13,3 +13,5 @@ Project Pixel Art Maker Starter Udacity project
 - Declaring functions and attaching them to DOM objects as event listeners
 - Writing nested loops and using loop variables
 - jQuery
+
+[Preview to my project]  https://nnaezema.github.io/Project-Pixel-Art-Maker-Starter/
